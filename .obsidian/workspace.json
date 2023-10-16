@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creational Patterns.md",
+                "file": "Prototype Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prototype Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prototype Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prototype Pattern.md"
+              }
             }
           }
         ]
@@ -164,16 +168,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c12254c830f75f19",
+  "active": "7db1e390174ac4d9",
   "lastOpenFiles": [
-    "Design Pattern.md",
+    "Singleton Pattern.md",
     "Types of Design pattern.md",
+    "Prototype Pattern.md",
+    "Factory Method Pattern.md",
+    "Creational Patterns.md",
+    "Design Pattern.md",
     "Abstract Factory Pattern.md",
     "Builder Pattern.md",
-    "Creational Patterns.md",
-    "Factory Method Pattern.md",
-    "Singleton Pattern.md",
-    "Prototype Pattern.md",
     "2023-10-16.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
