@@ -8,31 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e765824979a29124",
+            "id": "bf761591c8189379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Pattern.md",
+                "file": "Here is a simple example in Java to illustrate the Liskov Substitution Principle.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "7db1e390174ac4d9",
+            "id": "232d54df8fa5ca2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prototype Pattern.md",
+                "file": "Strategy Design Pattern.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "c12254c830f75f19",
+            "id": "e8d8e955e5806149",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prototype Pattern.md",
+                "file": "Strategy Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prototype Pattern.md",
+                "file": "Strategy Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prototype Pattern.md"
+                "file": "Strategy Design Pattern.md"
               }
             }
           }
@@ -168,15 +170,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7db1e390174ac4d9",
+  "active": "232d54df8fa5ca2f",
   "lastOpenFiles": [
+    "Here is a simple example in Java to illustrate the Liskov Substitution Principle.md",
+    "Strategy Design Pattern.md",
+    "SOLID Principles.md",
+    "Abstractions Should Not Depend on Details.md",
+    "Dependency Inversion Principle.md",
+    "Example 2 using vehicle.md",
+    "Here's an example in Java to illustrate the Dependency Inversion Principle.md",
+    "Liskov Substitution Principle.md",
+    "High-Level Modules Should Not Depend on Low-Level Modules.md",
+    "Interface Segregation Principle.md",
+    "Here is an example in Java to illustrate the Interface Segregation Principle.md",
+    "Open and Closed Principle.md",
+    "Here is an example to illustrate the Open and Closed Principle.md",
+    "Single Responsibility Principle.md",
+    "Open/Closed Principle.md",
+    "Open",
+    "SRP Example 2 Employee Class.md",
+    "SRP Example 1 TextEditor Class.md",
+    "Abstract Factory Pattern.md",
+    "Prototype Pattern.md",
     "Singleton Pattern.md",
     "Types of Design pattern.md",
-    "Prototype Pattern.md",
     "Factory Method Pattern.md",
     "Creational Patterns.md",
     "Design Pattern.md",
-    "Abstract Factory Pattern.md",
     "Builder Pattern.md",
     "2023-10-16.md",
     "Untitled.canvas",
